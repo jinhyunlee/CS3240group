@@ -39,4 +39,4 @@ if __name__ == '__main__':
 #stupid change
 
 
-#stupid comment added
+#stupid comment addedglobal(CAM)
