@@ -7,6 +7,9 @@ __author__ = 'jl4vw'
 #jinhyun's change from terminal
 #modified by melody.
 
+
+
+#resolved issue by Jin
 import csv
 import sqlite3
 database = 'lab3.db' #this variable name is too boring.
