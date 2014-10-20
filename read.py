@@ -9,7 +9,7 @@ __author__ = 'jl4vw'
 
 import csv
 import sqlite3
-database = 'lab3.db'
+database = 'lab3.db' #this variable name is too boring.
 
 def write():
     cr = csv.reader(open("seas-courses-5years.csv","rU"))
