@@ -2,7 +2,7 @@ __author__ = 'jl4vw'
 #jinhyun lee
 #jl4vw
 #CS 3240
-
+#new stuff. melody chao
 import csv
 import sqlite3
 database = 'lab3.db'
