@@ -3,6 +3,7 @@ __author__ = 'jl4vw'
 #jl4vw
 #CS 3240
 #I added a new code too
+#added a new date Monday Oct 20
 
 import csv
 import sqlite3
@@ -31,5 +32,8 @@ if __name__ == '__main__':
     print "eyy"
 
 
+	
+	
+#stupid change
 
 
