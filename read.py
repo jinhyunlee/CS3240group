@@ -4,12 +4,9 @@ __author__ = 'jl4vw'
 #CS 3240
 #I added a new code too
 #added a new date Monday Oct 20
-<<<<<<< HEAD
 #jinhyun's change from terminal
-=======
 #modified by melody.
 
->>>>>>> 4fa5d248df1db0033935d64338e22a33cb54d6ee
 import csv
 import sqlite3
 database = 'lab3.db'
