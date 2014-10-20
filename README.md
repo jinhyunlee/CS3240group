@@ -3,7 +3,7 @@ CS3240group
 
 CS 3240 Lab 6
 
-
+sdfasdf
 
 1. git pull
 2. git add read.py
