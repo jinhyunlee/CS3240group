@@ -3,7 +3,7 @@ __author__ = 'jl4vw'
 #jl4vw
 #CS 3240
 #added a new date Monday Oct 20
-
+#jinhyun's change from terminal
 import csv
 import sqlite3
 database = 'lab3.db'
