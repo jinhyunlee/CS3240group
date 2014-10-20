@@ -3,6 +3,7 @@ __author__ = 'jl4vw'
 #jl4vw
 #CS 3240
 #added a new date Monday Oct 20
+#modified by melody.
 
 import csv
 import sqlite3
