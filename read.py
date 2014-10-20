@@ -8,10 +8,13 @@ __author__ = 'jl4vw'
 #modified by melody.
 #fix using commit message?
 
+
+
+#resolved issue by Jin
 import csv
 import sqlite3
 database = 'lab3.db' #this variable name is too boring.
-
+#Tim's branch
 def write():
     cr = csv.reader(open("seas-courses-5years.csv","rU"))
     conn = sqlite3.connect(database)
