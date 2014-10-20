@@ -2,6 +2,7 @@ __author__ = 'jl4vw'
 #jinhyun lee
 #jl4vw
 #CS 3240
+#I added a new code too
 
 import csv
 import sqlite3
@@ -27,6 +28,7 @@ def read():
 if __name__ == '__main__':
     write()
     read()
+    print "eyy"
 
 
 
